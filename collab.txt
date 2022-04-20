@@ -1,4 +1,6 @@
+
 Hello Owner! Penge ako limang piso
 Hi Collaborator!
 Part 2 na ito
-printf("The area of triangle is: %.2f", x)
+printf("The area of circle is: %2f",x)
+
